@@ -1,2 +1,1 @@
-# LecteurJS
-Lecteur Multimedia en JavaScript
+# JS-Lecteur Create by Thibaut Thalamas
